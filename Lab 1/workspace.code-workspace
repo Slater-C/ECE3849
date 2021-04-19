@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\ECE2049\\VScode"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdbool.h": "c",
+			"buttons.h": "c"
+		}
+	}
+}
